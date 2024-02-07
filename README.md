@@ -1,4 +1,4 @@
-<h1 align="center">🌌 Art-Space App 🎨</h1>
+<h1 align="center">🌌 Art-Space 🎨</h1>
 
 <p align="center">
   <img width="400px" src="https://github.com/AlejandroDavidArzolaSaavedra/Art-Space/assets/90756437/8bdc40b2-9b26-4af6-99d6-fb82a9c6b6ab">
